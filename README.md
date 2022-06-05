@@ -15,7 +15,7 @@ flatpak --user remote-add --if-not-exists flathub https://flathub.org/repo/flath
 ##### Install Wine stable from flathub (org.winehq.Wine)
 
 ```
-flatpak --user -y install org.freedesktop.Sdk/x86_64/21.08
+flatpak --user -y install org.winehq.Wine/x86_64/stable-21.08
 ```
 
 ##### If flatpak dependencies has trouble installing, try flatpak --repair
