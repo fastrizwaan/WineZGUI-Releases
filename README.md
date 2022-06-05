@@ -10,7 +10,6 @@ Replace `--user` with `--system` to install system-wide.
 
 ```
 flatpak --user remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
-
 ```
 
 ##### Install Wine stable from flathub (org.winehq.Wine)
